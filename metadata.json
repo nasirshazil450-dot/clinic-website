@@ -1,0 +1,6 @@
+{
+  "name": "Complete Care Clinics & Pharmacy",
+  "description": "Modern, clean, and responsive healthcare website for Complete Care Clinics & Pharmacy in Rawalpindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
